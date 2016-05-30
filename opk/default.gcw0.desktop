@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Uzem
+Comment=Uzebox emulator
+Exec=uzem %f
+Icon=icon
+Terminal=false
+Categories=emulators;
+X-OD-NeedsDownscaling=true
